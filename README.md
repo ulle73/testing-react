@@ -1,8 +1,9 @@
-# React + Vite
+Det behöver finnas en användare som heter "jonas" och en som heter "adam" för testerna.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+jonas skall följa adam, adam ska ha gjort ett inlägg.
 
-Currently, two official plugins are available:
+npm run dev för att köra vite.
+node backend.js för att köra server.
+npm run test för att köra backend och frontend tester
+npm run cypress:open när du står i reat-testing mappen för att köra E2E tester.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
